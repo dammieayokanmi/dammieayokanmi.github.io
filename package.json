@@ -2,9 +2,9 @@
   "name": "oos-blog",
   "description": "I write about modern JavaScript, web development, computer science and opinions are mine.🚀",
   "version": "1.0.0",
-  "author": "Ojo Oluwasetemi <setemiojo@gmail.com>",
+  "author": "Ayokanmi Damilola <dammieayokanmi@gmail.com>",
   "bugs": {
-    "url": "https://github.com/Oluwasetemi/Oluwasetemi.github.io/issues"
+    
   },
   "dependencies": {
     "gatsby": "^2.0.19",
